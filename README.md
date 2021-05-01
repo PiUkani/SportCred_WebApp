@@ -2,8 +2,6 @@
 project-ilir-action-team created by GitHub Classroom
 
 
-[![Video](https://webpagetracker.blob.core.windows.net/pics/sportcreddemo.png)](https://youtu.be/Ht4gptRzBFg "Demo")
-
 SportCred is a website for aspiring sports enthusiasts, aspiring analysts, sports betters and many others to build their analytical credibility in sports through increasing their ACS (Analytical Credibility Score) by overall participation in a variety of features of SportCred. These include the following: 
 * Picks/ Predictions - users are able to make daily, preseason and playoff bracket predictions  
 * Trivia - users are able to participate in solo trivia about basketball 
